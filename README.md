@@ -28,7 +28,7 @@ redundâncias.
 
 
 ### Modelagem do Projeto
-![](desafio_final\diagrama_projeto.png)
+![](diagrama_projeto.png)
 
 
 Espero que gostem e possam usufruir... ;)
